@@ -1,7 +1,0 @@
-C:\Projet11\Projet11\obj\Debug\net8.0\Projet11.csproj.AssemblyReference.cache
-C:\Projet11\Projet11\obj\Debug\net8.0\Projet11.GeneratedMSBuildEditorConfig.editorconfig
-C:\Projet11\Projet11\obj\Debug\net8.0\Projet11.AssemblyInfoInputs.cache
-C:\Projet11\Projet11\obj\Debug\net8.0\Projet11.AssemblyInfo.cs
-C:\Projet11\Projet11\obj\Debug\net8.0\Projet11.csproj.CoreCompileInputs.cache
-C:\Projet11\Projet11\obj\Debug\net8.0\Projet11.MvcApplicationPartsAssemblyInfo.cs
-C:\Projet11\Projet11\obj\Debug\net8.0\Projet11.MvcApplicationPartsAssemblyInfo.cache
